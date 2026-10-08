@@ -32,6 +32,7 @@ We engineer high-performance, local-first desktop workstations and developer too
 |---|---|---|
 | [**`adung-mcp`**](https://github.com/AdungApp/adung-mcp) | Model Context Protocol (MCP) server connecting YouTube intelligence directly to Claude. | **Public / Active** |
 | [**`youtube-adung`**](https://github.com/AdungApp/youtube-adung) | Official releases, changelog, and documentation for YouTube Adung Commercial v1.2. | **Public / Active** |
+| [**`adung-studio-book`**](https://github.com/AdungApp/adung-studio-book) | Open architecture, CLAUDE.md guidelines, and releases for Adung Studio Book v2.55. | **Public / Active** |
 
 ---
 
