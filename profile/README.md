@@ -7,7 +7,7 @@
 
 Welcome to the official GitHub organization of **Adung** ([https://adung.top](https://adung.top)), an independent, bootstrapped creator intelligence startup based in Vietnam.
 
-We engineer high-performance, local-first desktop workstations and developer tools that empower video creators, investigative storytellers, and media production teams to discover high-velocity content opportunities and synthesize deep narrative video scripts.
+We engineer high-performance, local-first desktop workstations and developer tools that empower video creators, investigative storytellers, and media production teams to discover high-velocity content opportunities and develop original creator-led scripts from research insights.
 
 ---
 
